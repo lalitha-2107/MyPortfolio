@@ -53,7 +53,7 @@ export default function Hero() {
           variants={lineVariants}
           className="mb-4 text-sm font-medium uppercase tracking-widest text-accent md:text-base"
         >
-          Frontend Engineer & Motion Designer
+          Frontend Engineer with beauty
         </motion.p>
 
         {/* Headline lines */}
